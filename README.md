@@ -1,4 +1,4 @@
-# Hi there i'm Mário Estima
+# Hi there i'm Mário Estima i'm a backend developer.
 
 ![marioestima's Stats](https://github-readme-stats.vercel.app/api?username=marioestima&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
