@@ -1,5 +1,24 @@
 # Hi there i'm Mário Estima a backend developer.
 
+
+ull-Stack Developer | Multi-Language Programmer
+
+I’m a technology enthusiast passionate about creating innovative solutions. I work on both front-end and back-end development, combining performance, best practices, and a strong focus on user experience.
+
+🚀 Key Skills:
+
+Backend: PHP, Node.js
+
+Frontend: React.js, React Native
+
+Low-Level Languages: C, C++
+
+Others: HTML, CSS, JavaScript, MySQL, REST APIs
+
+📚 Always learning new technologies and improving my skills to build projects that make a difference.
+
+📬 Let’s collaborate!
+
 ![marioestima's Stats](https://github-readme-stats.vercel.app/api?username=marioestima&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ![marioestima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marioestima&theme=dracula&hide_border=true)
