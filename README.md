@@ -15,8 +15,8 @@ I enjoy turning **complex problems** into **simple, elegant solutions** and coll
 ---
 
 ## 🚀 Key Skills
-- **Backend:** PHP, Node.js  
-- **Frontend:** React.js, React Native, Next.js  
+- **Backend:** PHP, Node.js  , C#
+- **Frontend:** React.js, React Native, Next.js  , Flutter
 - **Low-Level Languages:** C, C++  
 - **Others:** HTML, CSS, JavaScript, MySQL, REST APIs, Docker  
 
