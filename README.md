@@ -1,24 +1,24 @@
- # 👋 Hi there, I'm **Mário Estima**  
+# 👋 Hi there, I'm **Mário Estima**  
 
 💻 **Full-Stack & Backend Developer** | 🚀 Passionate about technology and innovation  
 
 I’m a technology enthusiast passionate about creating innovative solutions.  
 I work on both **front-end** and **back-end** development, combining **performance**, **best practices**, and a strong **focus on user experience**.
 
-My approach involves writing **clean**, **scalable**, and **maintainable** code, while constantly exploring new tools and frameworks to stay ahead in the ever-evolving tech landscape.  
-I have strong experience with **JavaScript ecosystems** such as **Node.js**, **React.js**, and **Next.js**, as well as proficiency in **low-level languages** like **C** and **C++** for performance-critical applications.
+I write **clean**, **scalable**, and **maintainable** code, while constantly exploring new tools and frameworks.  
+I have strong experience with **JavaScript ecosystems** such as **Node.js**, **React.js**, **Next.js**, and **Nest.js**, as well as proficiency in **low-level languages** like **C** and **C++** for performance-critical applications.
 
-I’m also skilled in **containerization** with **Docker** and have a solid understanding of **backend architectures**, **REST APIs**, and **database management**.  
+I’m skilled in **containerization** with **Docker** and have a solid understanding of **backend architectures**, **REST APIs**, and **database management**.  
 
 I enjoy turning **complex problems** into **simple, elegant solutions** and collaborating on projects that make a **real impact** in people’s lives.
 
 ---
 
 ## 🚀 Key Skills
-- **Backend:** PHP, Node.js  , C#
-- **Frontend:** React.js, React Native, Next.js  , Flutter
+- **Backend:** Node.js, Nest.js  
+- **Frontend:** React.js, Next.js, Flutter, Tailwind CSS  
 - **Low-Level Languages:** C, C++  
-- **Others:** HTML, CSS, JavaScript, MySQL, REST APIs, Docker  
+- **Other:** HTML, JavaScript, MySQL, PostgreSQL, REST APIs, Docker  
 
 📚 Always learning new technologies and improving my skills to build projects that make a difference.  
 
@@ -34,22 +34,20 @@ I enjoy turning **complex problems** into **simple, elegant solutions** and coll
 
 ## 🛠 Technologies I Use Daily
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
