@@ -1,54 +1,77 @@
-# 👋 Hi there, I'm **Mário Estima**  
+# 👋 Hello World! I'm Mário Estima
 
-💻 **Full-Stack & Backend Developer** | 🚀 Passionate about technology and innovation  
+🚀 **Full-Stack Developer | Backend Engineer | Tech Enthusiast**
 
-I’m a technology enthusiast passionate about creating innovative solutions.  
-I work on both **front-end** and **back-end** development, combining **performance**, **best practices**, and a strong **focus on user experience**.
+I am a passionate software developer focused on building practical, efficient, and scalable digital solutions.  
+I enjoy transforming ideas into real applications using clean architecture, best practices, and modern technologies.
 
-I write **clean**, **scalable**, and **maintainable** code, while constantly exploring new tools and frameworks.  
-I have strong experience with **JavaScript ecosystems** such as **Node.js**, **React.js**, **Next.js**, and **Nest.js**, as well as proficiency in **low-level languages** like **C** and **C++** for performance-critical applications.
+With experience in both **frontend** and **backend** development, I specialize in creating complete systems — from intuitive user interfaces to robust server-side logic.
 
-I’m skilled in **containerization** with **Docker** and have a solid understanding of **backend architectures**, **REST APIs**, and **database management**.  
-
-I enjoy turning **complex problems** into **simple, elegant solutions** and collaborating on projects that make a **real impact** in people’s lives.
+I’m constantly learning, improving, and exploring new tools to deliver better performance, security, and user experience.
 
 ---
 
-## 🚀 Key Skills
-- **Backend:** Node.js, Nest.js  
-- **Frontend:** React.js, Next.js, Flutter, Tailwind CSS  
-- **Low-Level Languages:** C, C++  
-- **Other:** HTML, JavaScript, MySQL, PostgreSQL, REST APIs, Docker  
+## 💡 What I Do
 
-📚 Always learning new technologies and improving my skills to build projects that make a difference.  
+- Develop modern web and mobile applications  
+- Build scalable REST APIs and backend services  
+- Create real-time systems and integrations  
+- Automate workflows and optimize processes  
+- Design clean, maintainable, and organized codebases  
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=marioestima&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=marioestima&theme=dracula&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioestima&theme=dracula&show_icons=true&hide_border=true&layout=compact)  
+I believe technology should solve real problems — and that’s what drives my daily work.
 
 ---
 
-## 🛠 Technologies I Use Daily
+## 🛠 Main Technologies & Tools
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+### 💻 Languages & Frameworks
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### ⚙️ Databases & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧰 Other Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-📬 **Let’s collaborate!** Connect with me and let’s build something amazing together. 🚀
+## 📊 GitHub Overview
+
+![Stats](https://github-readme-stats.vercel.app/api?username=marioestima&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=marioestima&theme=blueberry&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioestima&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
+---
+
+## 🎯 Goals
+
+- Build impactful software solutions  
+- Contribute to open-source projects  
+- Master backend architectures and distributed systems  
+- Grow as a developer and help others grow as well  
+
+---
+
+### 🤝 Let’s Connect!
+
+I’m always open to collaborations, new ideas, and exciting projects.  
+Feel free to reach out — let’s create something awesome together! 🚀
