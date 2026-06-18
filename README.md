@@ -89,19 +89,13 @@ I develop scalable APIs and backend systems with strong focus on performance and
   <picture>
 
     <source
-
       srcset="https://github-readme-stats.vercel.app/api?username=marioestima&show_icons=true&theme=tokyonight&hide_border=true"
-
       media="(prefers-color-scheme: dark)"
-
     />
 
     <source
-
       srcset="https://github-readme-stats.vercel.app/api?username=marioestima&show_icons=true&theme=default&hide_border=true"
-
       media="(prefers-color-scheme: light)"
-
     />
 
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=marioestima&show_icons=true&hide_border=true" />
@@ -113,19 +107,13 @@ I develop scalable APIs and backend systems with strong focus on performance and
   <picture>
 
     <source
-
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marioestima&layout=compact&theme=tokyonight&hide_border=true"
-
       media="(prefers-color-scheme: dark)"
-
     />
 
     <source
-
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marioestima&layout=compact&theme=default&hide_border=true"
-
       media="(prefers-color-scheme: light)"
-
     />
 
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioestima&layout=compact&hide_border=true" />
