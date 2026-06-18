@@ -5,9 +5,10 @@
  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Mário%20Estima&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Mário%20Estima&fontSize=40&fontColor=ffffff&font=Montserrat" />
 </p>
 
+ 
 
 ## About Me
 
@@ -17,7 +18,8 @@ I work across backend systems, APIs, databases, and frontend interfaces, transfo
 
 I enjoy clean architecture, performance optimization, and creating smooth user experiences.
 
- 
+---
+
 ## Frontend Experience
 
 I build modern, responsive and fast user interfaces.
@@ -43,7 +45,7 @@ I develop scalable APIs and backend systems with strong focus on performance and
 * PHP
 * Python
 
- 
+---
 
 ## Tech Stack
 
@@ -77,7 +79,7 @@ I develop scalable APIs and backend systems with strong focus on performance and
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+ 
 
 ## GitHub Stats
 
@@ -108,18 +110,17 @@ I develop scalable APIs and backend systems with strong focus on performance and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marioestima&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marioestima&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
+ 
 ## Tech Languages Visualization
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,php,python,html,css,tailwind,docker,linux,git,mysql,postgres" />
 </p>
- 
 
+ 
 ## Current Focus
 
 * Backend Architecture
@@ -127,8 +128,7 @@ I develop scalable APIs and backend systems with strong focus on performance and
 * System Performance
 * Scalable Applications
 * Clean Code Practices
-
-
+ 
 
 ## Contact
 
