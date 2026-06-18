@@ -22,7 +22,7 @@ I work across backend systems, APIs, databases, and frontend interfaces, transfo
 
 I enjoy clean architecture, performance optimization, and creating smooth user experiences.
 
----
+ 
 
 ## Frontend Experience
 
@@ -34,7 +34,7 @@ React, JavaScript, TypeScript, HTML, CSS and TailwindCSS.
 
 ### Mobile Development
 
-React Native for cross-platform applications.
+React Native and Flutter for cross-platform applications.
 
 ---
 
@@ -46,8 +46,7 @@ I develop scalable APIs and backend systems with strong focus on performance and
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,python" />
 
----
-
+ 
 ## Tech Stack
 
 ### Frontend
@@ -64,13 +63,14 @@ I develop scalable APIs and backend systems with strong focus on performance and
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+ 
 
 ## Mobile
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
+
 
 ## Database & Tools
 
@@ -80,7 +80,7 @@ I develop scalable APIs and backend systems with strong focus on performance and
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+ 
 
 ## GitHub Stats
 
@@ -150,11 +150,8 @@ I develop scalable APIs and backend systems with strong focus on performance and
 
 </p>
 
----
-
+ 
 ## Current Focus
-
-<img src="https://skillicons.dev/icons?i=server,api,cloud,docker" />
 
 Backend Architecture  
 API Development  
@@ -162,7 +159,7 @@ System Performance
 Scalable Applications  
 Clean Code Practices
 
----
+ 
 
 ## Contact
 
