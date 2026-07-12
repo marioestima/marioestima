@@ -107,14 +107,7 @@ Também desenvolvo APIs escaláveis e sistemas de backend com foco em performanc
 ## Estatísticas do GitHub
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=marioestima&show_icons=true&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=marioestima&show_icons=true&theme=tokyonight&hide_border=true" />
-  </picture>
-</p>
+ 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marioestima&theme=tokyonight&hide_border=true" />
