@@ -1,6 +1,22 @@
 # Mário Estima
 
-### Desenvolvedor Full-Stack | Focado em Frontend | Solucionador de Problemas
+## Software Engineer | Frontend Specialist | Web & Mobile Developer
+
+Construo aplicações web e mobile modernas, rápidas e escaláveis utilizando React, Next.js, React Native e Flutter, criando interfaces que unem performance, arquitetura limpa e uma excelente experiência de utilização.
+
+Transformo ideias em produtos digitais reais, integrando interfaces de alta qualidade com APIs robustas e sistemas escaláveis.
+
+**Especializado em:**
+
+* React & Next.js
+* React Native & Flutter
+* UI/UX Moderna e Responsiva
+* Performance Frontend
+* Integração com APIs
+* Arquitetura de Componentes
+* TypeScript & JavaScript
+
+> *"Building modern digital experiences that users love."*
 
 ## Sobre Mim
 
@@ -17,9 +33,11 @@ Aprecio criar experiências de usuário excepcionais, otimização de performanc
 Desenvolvo interfaces de usuário modernas, responsivas, rápidas e focadas na melhor experiência para o usuário.
 
 ### Desenvolvimento Web
+
 React, Next.js, JavaScript, TypeScript, Vue.js, Angular, HTML, CSS e TailwindCSS.
 
 ### Desenvolvimento Mobile
+
 React Native e Flutter para aplicações multiplataforma de alta performance.
 
 ---
@@ -29,6 +47,7 @@ React Native e Flutter para aplicações multiplataforma de alta performance.
 Também desenvolvo APIs escaláveis e sistemas de backend com foco em performance e estrutura para suportar o ecossistema do cliente.
 
 ### Tecnologias Secundárias
+
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs" />
 
 ---
@@ -36,6 +55,7 @@ Também desenvolvo APIs escaláveis e sistemas de backend com foco em performanc
 ## Tecnologias que Utilizo
 
 ### Frontend & Mobile
+
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
@@ -49,6 +69,7 @@ Também desenvolvo APIs escaláveis e sistemas de backend com foco em performanc
 </div>
 
 ### Backend
+
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"> 
@@ -60,6 +81,7 @@ Também desenvolvo APIs escaláveis e sistemas de backend com foco em performanc
 </div>
 
 ### Bancos de Dados & Sistemas de Mensageria
+
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -68,6 +90,7 @@ Também desenvolvo APIs escaláveis e sistemas de backend com foco em performanc
 </div>
 
 ### Ferramentas & Plataformas
+
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
