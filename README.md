@@ -34,7 +34,7 @@ Desenvolvo interfaces de usuário modernas, responsivas, rápidas e focadas na m
 
 ### Desenvolvimento Web
 
-React, Next.js, JavaScript, TypeScript, Vue.js, Angular, HTML, CSS e TailwindCSS.
+React, Next.js, JavaScript, TypeScript.
 
 ### Desenvolvimento Mobile
 
