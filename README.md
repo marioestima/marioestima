@@ -2,10 +2,6 @@
 
 ### Desenvolvedor Full-Stack | Focado em Frontend | Solucionador de Problemas
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Mário%20Estima&fontSize=40&fontColor=ffffff&font=Montserrat" />
-</p>
-
 ## Sobre Mim
 
 Sou um Desenvolvedor Full-Stack focado na criação de aplicações web e mobile modernas, responsivas e escaláveis, com forte inclinação para o desenvolvimento Frontend.
