@@ -16,8 +16,7 @@ Transformo ideias em produtos digitais reais, integrando interfaces de alta qual
 * Arquitetura de Componentes
 * TypeScript & JavaScript
 
-> *"Building modern digital experiences that users love."*
-
+ 
 ## Sobre Mim
 
 Sou um Desenvolvedor Full-Stack focado na criação de aplicações web e mobile modernas, responsivas e escaláveis, com forte inclinação para o desenvolvimento Frontend.
